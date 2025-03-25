@@ -1,2 +1,15 @@
 # moviesFrom1980to2020
- 📊 Clean Movies Dataset Este repositório contém um dataset de filmes após um processo de limpeza de dados. O objetivo foi remover inconsistências, corrigir valores ausentes e garantir que os dados estivessem prontos para análise.  📌 Detalhes do Processamento ✅ Remoção de valores duplicados ✅ Tratamento de valores ausentes ✅ Padronização de colunas ✅ Correção de erros nos dados  Este dataset pode ser utilizado para análises exploratórias, visualizações de dados e modelos preditivos relacionados a filmes.  🚀 Como Usar Faça o download do arquivo cleanMovies.csv e utilize ferramentas como Python (Pandas), SQL ou Power BI para explorar os dados.
+📊 Clean Movies Dataset
+
+This repository contains a cleaned movie dataset. The goal was to remove inconsistencies, fix missing values, and ensure the data is ready for analysis.
+
+📌 Processing Details
+✅ Removed duplicates
+✅ Handled missing values
+✅ Standardized columns
+✅ Corrected data errors
+
+This dataset can be used for exploratory analysis, data visualization, and predictive modeling related to movies.
+
+🚀 How to Use
+Download the cleanMovies.csv file and use tools like Python (Pandas), SQL, or Power BI to explore the data.
